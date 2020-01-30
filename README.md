@@ -10,3 +10,4 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 ## · Basic Data Types
 - [list_comprehensions.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/list_comprehensions.py)
 - [runner_up.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/runner_up.py)
+- [nested_lists.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/nested_lists.py)
