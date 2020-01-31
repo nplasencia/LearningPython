@@ -17,3 +17,4 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 ## · Strings
 - [swap_case.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/swap_case.py)
 - [split_join.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/split_join.py)
+- [minion_game.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/minion_game.py)
