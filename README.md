@@ -13,3 +13,6 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [nested_lists.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/nested_lists.py)
 - [lists_functions.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/lists_functions.py)
 - [tuples.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/tuples.py)
+
+## · Strings
+- [swap_case.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/swap_case.py)
