@@ -12,3 +12,4 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [runner_up.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/runner_up.py)
 - [nested_lists.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/nested_lists.py)
 - [lists_functions.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/lists_functions.py)
+- [tuples.py](https://github.com/nplasencia/LearningPython/blob/master/BasicDataTypes/tuples.py)
