@@ -20,3 +20,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [minion_game.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/minion_game.py)
 - [mutate_string.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/mutate_string.py)
 - [count_substring.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/count_substring.py)
+- [string_validators.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/string_validators.py)
+
+## · Statistics
+- [mean_median_mode.py](https://github.com/nplasencia/LearningPython/blob/master/Statistics/mean_median_mode.py)
+- [weighted_mean.py](https://github.com/nplasencia/LearningPython/blob/master/Statistics/weighted_mean.py)
+- [quartiles.py](https://github.com/nplasencia/LearningPython/blob/master/Statistics/quartiles.py)
