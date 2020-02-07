@@ -21,6 +21,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [mutate_string.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/mutate_string.py)
 - [count_substring.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/count_substring.py)
 - [string_validators.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/string_validators.py)
+- [text_alignment.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/text_alignment.py)
+- [text_wrap.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/text_wrap.py)
+- [designer_door_mat.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/designer_doow_mat.py)
 
 ## · Statistics
 - [mean_median_mode.py](https://github.com/nplasencia/LearningPython/blob/master/Statistics/mean_median_mode.py)
