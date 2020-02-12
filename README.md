@@ -24,6 +24,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [text_alignment.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/text_alignment.py)
 - [text_wrap.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/text_wrap.py)
 - [designer_door_mat.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/designer_doow_mat.py)
+- [string_formatting.py](https://github.com/nplasencia/LearningPython/blob/master/Strings/string_formatting.py)
 
 ## · Statistics
 - [mean_median_mode.py](https://github.com/nplasencia/LearningPython/blob/master/Statistics/mean_median_mode.py)
